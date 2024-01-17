@@ -4,8 +4,8 @@ import fetch from 'node-fetch';
 import torrent2magnet from "torrent2magnet-js";
 import { Buffer } from "buffer";
 
-const verif = '1080p,2160p,BluRay'
-const nonverif = 'iTA','MULTi,.mkv'
+const verif = ['1080p','2160p','BluRay']
+const nonverif = ['iTA','MULTi','.mkv']
 const apiKey = ''
 const jackettUrl = 'http://192.168.1.128:9117/UI/Dashboard'
 const jackettApi = '75akq4c6pv5ezjze7gfl90ki4s97nzrf'
