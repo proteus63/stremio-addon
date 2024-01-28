@@ -5,10 +5,10 @@ import torrent2magnet from "torrent2magnet-js";
 import { Buffer } from "buffer";
 
 const verif = ['1080p','2160p','BluRay' ]
-const nonverif = ['.FRENCH.', '.TRUEFRENCH.', ' VFQ ']
+const nonverif = ['.ITA.', '.iTA.', ' Multi ']
 const apiKey = ''
-const jackettUrl = ''
-const jackettApi = 'veaafa7j0tz4bs61yrbyxl49n99flsx1'
+const jackettUrl = 'http://85.61.137.47:9117/'
+const jackettApi = 'sro9ybsw7bign818vygiu8t4rwrtewke'
 const jackettIndexer = 'milkie'
 const jackettMovieCat = '2000'
 const jackettSerieCat = '5000'
