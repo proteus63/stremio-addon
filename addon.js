@@ -5,7 +5,7 @@ import torrent2magnet from "torrent2magnet-js";
 import { Buffer } from "buffer";
 
 const verif = ['1080p','2160p','BluRay' ]
-const nonverif = ['.ITA.', '.iTA.', ' Multi ']
+const nonverif = ['.ITA.' , 'IT' , '.iTA.', ' Multi ' , ' .mkv ']
 const apiKey = ''
 const jackettUrl = 'http://85.61.137.47:9117/'
 const jackettApi = 'sro9ybsw7bign818vygiu8t4rwrtewke'
