@@ -23,7 +23,7 @@ const manifest = {
     "catalogs": [],
     "resources": ["stream"],
     "types": ["movie", "series", "tv"],
-    "name": "Jackett Milkie",
+    "name": "Jackett Steve",
     "description": "Stremio Jackett Addon"
 };
 
