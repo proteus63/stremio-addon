@@ -7,7 +7,7 @@ import { Buffer } from "buffer";
 const verif = ['1080p','2160p','BluRay' , '.ITA.' , 'IT' , '.iTA.', ' Multi ' , ' .mkv ' ]
 const nonverif = []
 const apiKey = ''
-const jackettUrl = 'http://192.168.1.32:9117/'
+const jackettUrl = 'http://127.0.0.1:9117/'
 const jackettApi = 'vgskzuqdpg74r6zkfoa5iazb6groanmd'
 const jackettIndexer = 'Steve'
 const jackettMovieCat = '2000'
